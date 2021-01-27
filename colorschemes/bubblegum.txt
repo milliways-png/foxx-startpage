@@ -1,0 +1,6 @@
+    --bg: #2e2c45;
+    --sbg: #3f3d57;
+    --fg: #9a91b8;
+    --accent0: #ca6ba7;
+    --accent1: #95bab3;
+    --accent2: #de9ca5;
